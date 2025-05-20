@@ -12,7 +12,7 @@
   <label for="login">Login</label>
   <input type="text" name="login">
   <label for="password">Hasło</label>
-  <input type="password" name="password" id="">
+  <input type="password" name="password">
   <button type="button">Zaloguj</button>
 </form>
   
